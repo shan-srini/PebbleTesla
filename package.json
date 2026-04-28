@@ -1,5 +1,5 @@
 {
-    "author": "Shan Srinivasan",
+    "author": "shanmansand@gmail.com",
     "dependencies": {},
     "keywords": [],
     "name": "pebbletesla",
@@ -12,7 +12,7 @@
             "media": []
         },
         "sdkVersion": "3",
-        "uuid": "3e9da4fe-1f3f-4213-be48-ffab9f782f20",
+        "uuid": "79297d38-c85e-4db0-8259-71ff69a72ba2",
         "watchapp": {
             "watchface": false
         }
